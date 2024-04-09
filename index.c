@@ -12,6 +12,7 @@
     int read_number(int trno);
     void read_name(int trno);
     void status();
+    // hellow world
     void status_1(int trno);
     void cancle();
     
